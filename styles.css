@@ -1,0 +1,19 @@
+body {
+	background-color: slategrey;
+}
+
+div {
+	display: flex;
+	/* justify-content: center; */
+	align-items: center;
+	height: 85vh;
+	/* width: 45%; */
+}
+
+textarea {
+	height: 95%;
+}
+
+button {
+	width: 25%;
+}
