@@ -2,11 +2,16 @@ body {
 	background-color: slategrey;
 }
 
-div {
+.textfields {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	height: 85vh;
+}
+
+.buttons {
+	display: flex;
+	justify-content: space-between;
 }
 
 textarea {
